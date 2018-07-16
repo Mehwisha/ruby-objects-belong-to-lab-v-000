@@ -4,7 +4,7 @@ def initialize
 @title = title
 @artist = artist
 @name = name
-@author = authr
+@author = author
 
 end
 
